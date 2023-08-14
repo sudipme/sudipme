@@ -12,6 +12,8 @@ I'm Sudip Halder, a computer science undergraduate at Indian Institute of Inform
 
 ## 🟢 Deployed Projects
 - Website: [projects](https://sudip.me/projects)
+### LinkSnip:
+LinkSnip is a Link Shortener service which allows us to effortlessly transform lengthy web addresses into concise, memorable links, ideal for social media, email campaigns, and more.
 
 ## 💬 Get in Touch
 
