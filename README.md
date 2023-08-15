@@ -10,19 +10,19 @@ I'm Sudip Halder, a computer science undergraduate at Indian Institute of Inform
 - Machine Learning: Currently learning and experimenting with Numpy, SciKit-learn and TensorFlow.
 - Version Control: Git
 
-## 🟢 Deployed Projects
-- Website: [projects](https://sudip.me/projects)
-### LinkSnip:
+## 🚀 Deployed Projects
+ Website: [sudip.me/projects](https://sudip.me/projects)
+### 📂 [LinkSnip](https://sudip.me/linksnip)
 LinkSnip is a Link Shortener service which allows us to effortlessly transform lengthy web addresses into concise, memorable links, ideal for social media, email campaigns, and more.
 
 ## 💬 Get in Touch
 
 - LinkedIn: [sudiphalder](https://www.linkedin.com/in/sudiphalder/)
 - Twitter: [@sudip__halder](https://twitter.com/sudip__halder)
-- Website: [sudip.me/contact](https://sudip.me/contact)
+- ✉️ Mail: [sudip.me/contact](https://sudip.me/contact)
 
 ## 🌟 Open Source Contribution
 
 I'm passionate about contributing to open source projects and giving back to the community. If you have an interesting project or would like to collaborate, feel free to reach out!
 
-Let's connect and explore the exciting world of technology together! 🚀
+Let's connect and explore the exciting world of technology together!
