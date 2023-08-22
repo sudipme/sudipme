@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Sudip Halder, a computer science undergraduate at Indian Institute of Information Technology SriCity. I'm passionate about web and iOS development and enjoy working with technologies like Python, Swift and more.
+I'm Sudip Halder, a computer science undergraduate at Indian Institute of Information Technology SriCity. I'm passionate about web and iOS development and enjoy working with technologies like Python, Swift, TensorFlow and more.
 
 ## 🔧 Technologies & Tools
 
