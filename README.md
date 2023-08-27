@@ -18,7 +18,7 @@ LinkSnip is a Link Shortener service which allows us to effortlessly transform l
 ## 💬 Get in Touch
 
 - LinkedIn: [sudiphalder](https://www.linkedin.com/in/sudiphalder/)
-- Twitter: [@sudip__halder](https://twitter.com/sudip__halder)
+- Twitter: [@sudiphl](https://twitter.com/sudiphl)
 - ✉️ Mail: [sudip.me/contact](https://sudip.me/contact)
 
 ## 🌟 Open Source Contribution
