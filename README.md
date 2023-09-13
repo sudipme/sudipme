@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there 👋,  I am Sudip Halder
 
 [![Linkedin: sudiphalder](https://img.shields.io/badge/-Sudip%20Halder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiphalder/)](https://www.linkedin.com/in/sudiphalder/)
 [![Twitter: sudiphl](https://img.shields.io/twitter/follow/sudiphl?style=social)](https://twitter.com/sudiphl)
@@ -28,3 +28,7 @@ LinkSnip is a Link Shortener service which allows us to effortlessly transform l
 I'm passionate about contributing to open source projects and giving back to the community. If you have an interesting project or would like to collaborate, feel free to reach out!
 
 Let's connect and explore the exciting world of technology together!
+
+
+[![Laisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipme&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/sudipme/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipme&layout=compact&theme=calm)](https://github.com/sudipme/github-readme-stats)
