@@ -1,5 +1,8 @@
 # Hi there! 👋
 
+[![Linkedin: sudiphalder](https://img.shields.io/badge/-Sudip%20Halder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiphalder/)](https://www.linkedin.com/in/sudiphalder/)
+[![Twitter: sudiphl](https://img.shields.io/twitter/follow/sudiphl?style=social)](https://twitter.com/sudiphl)
+
 I'm Sudip Halder, a computer science undergraduate at Indian Institute of Information Technology SriCity. I'm passionate about web and iOS development and enjoy working with technologies like Python, Swift, TensorFlow and more.
 
 ## 🔧 Technologies & Tools
