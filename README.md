@@ -10,8 +10,7 @@ I'm Sudip Halder, a computer science undergraduate at Indian Institute of Inform
 - Machine Learning: Currently learning and experimenting with Numpy, SciKit-learn and TensorFlow.
 - Version Control: Git
 
-## 🚀 Deployed Projects
- Website: [sudip.me/projects](https://sudip.me/projects)
+## 🚀 Deployed Projects [(sudip.me/projects)](https://sudip.me/projects)
 ### 📂 [LinkSnip](https://sudip.me/linksnip)
 LinkSnip is a Link Shortener service which allows us to effortlessly transform lengthy web addresses into concise, memorable links, ideal for social media, email campaigns, and more.
 
