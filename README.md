@@ -30,5 +30,3 @@ I'm passionate about contributing to open source projects and giving back to the
 Let's connect and explore the exciting world of technology together!
 
 
-[![Laisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipme&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/sudipme/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipme&layout=compact&theme=calm)](https://github.com/sudipme/github-readme-stats)
