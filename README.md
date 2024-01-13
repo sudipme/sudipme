@@ -1,29 +1,22 @@
-# Hi there 👋,  I am Sudip Halder
+# Hi there,  I am Sudip Halder
 
-[![Linkedin: sudiphalder](https://img.shields.io/badge/-Sudip%20Halder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiphalder/)](https://www.linkedin.com/in/sudiphalder/)
-[![Twitter: sudiphl](https://img.shields.io/twitter/follow/sudiphl?style=social)](https://twitter.com/sudiphl)
+A computer Science & Engineering undergraduate. I'm passionate about Machine Learning and Web Backend development.
 
-I'm Sudip Halder, a computer science undergraduate at Indian Institute of Information Technology SriCity. I'm passionate about web and iOS development and enjoy working with technologies like Python, Swift, TensorFlow and more.
+### 🔨Technologies & Tools
 
-## 🔧 Technologies & Tools
+- Programming Languages: C, C++, Python
+- Backend Framework: Django, FastAPI
+- Frontend: ReactJS
+- Machine Learning: Scikit-learn, PyTorch
+- Other Tools: Git, docker
 
-- Programming Languages: C, C++, Python, Swift
-- Web Framework: Django
-- iOS Framework: SwiftUI
-- Machine Learning: Currently learning and experimenting with Numpy, SciKit-learn and TensorFlow.
-- Version Control: Git
+### 🚀 Projects
+Checkout my projects here [(sudip.me/projects)](https://sudip.me/projects)
 
-## 🚀 Deployed Projects [(sudip.me/projects)](https://sudip.me/projects)
-### 📂 [LinkSnip](https://sudip.me/linksnip)
-LinkSnip is a Link Shortener service which allows us to effortlessly transform lengthy web addresses into concise, memorable links, ideal for social media, email campaigns, and more.
+### 💬 Get in Touch
+- ✉️ Send a mail: [sudip.me/contact](https://sudip.me/contact)
 
-## 💬 Get in Touch
-
-- LinkedIn: [sudiphalder](https://www.linkedin.com/in/sudiphalder/)
-- Twitter: [@sudiphl](https://twitter.com/sudiphl)
-- ✉️ Mail: [sudip.me/contact](https://sudip.me/contact)
-
-## 🌟 Open Source Contribution
+### 🌟 Open Source Contribution
 
 I'm passionate about contributing to open source projects and giving back to the community. If you have an interesting project or would like to collaborate, feel free to reach out!
 
