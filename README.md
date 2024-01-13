@@ -14,7 +14,7 @@ A computer Science & Engineering undergraduate. I'm passionate about Machine Lea
 Checkout my projects here [(sudip.me/projects)](https://sudip.me/projects)
 
 ### 💬 Get in Touch
-- ✉️ Send a mail: [sudip.me/contact](https://sudip.me/mail)
+- ✉️ Send a mail: [sudip.me/mail](https://sudip.me/mail)
 
 ### 🌟 Open Source Contribution
 
