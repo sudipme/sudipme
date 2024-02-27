@@ -1,6 +1,6 @@
 # Hi,  I am Sudip Halder
 
-A computer Science & Engineering undergraduate. I'm passionate about Machine Learning and Web Backend development.
+I am a computer Science undergraduate, passionate about Machine Learning and Backend engineering.
 
 ### 🔨Technologies & Tools
 
