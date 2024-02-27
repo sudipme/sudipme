@@ -1,25 +1,20 @@
-# Hi there,  I am Sudip Halder
+# Hi,  I am Sudip Halder
 
 A computer Science & Engineering undergraduate. I'm passionate about Machine Learning and Web Backend development.
 
 ### 🔨Technologies & Tools
 
-- Programming Languages: C, C++, Python
-- Backend Framework: Django, FastAPI
+- Programming Languages: C, C++, RUST, Python
+- Backend Framework: Django, FastAPI, ExpressJS
 - Frontend: ReactJS
 - Machine Learning: Scikit-learn, PyTorch
 - Other Tools: Git, docker
 
-### 🚀 Projects
-Checkout my projects here [(sudip.me/projects)](https://sudip.me/projects)
+### 🚀 Checkout my [Projects](https://sudip.me/projects).
 
 ### 💬 Get in Touch
-- ✉️ Send a mail: [sudip.me/mail](https://sudip.me/mail)
+-  [Send a Mail](https://sudip.me/mail)
+-  [DM me on X](https://x.com/sudiphl)
 
-### 🌟 Open Source Contribution
-
-I'm passionate about contributing to open source projects and giving back to the community. If you have an interesting project or would like to collaborate, feel free to reach out!
-
-Let's connect and explore the exciting world of technology together!
 
 
