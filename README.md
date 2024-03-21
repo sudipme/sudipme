@@ -4,7 +4,7 @@ I am a computer Science undergraduate, passionate about Machine Learning and Bac
 
 ### 🔨Technologies & Tools
 
-- Programming Languages: C, C++, RUST, Python
+- Programming Languages: C, C++, Python
 - Backend Framework: Django, FastAPI, ExpressJS
 - Frontend: ReactJS
 - Machine Learning: Scikit-learn, PyTorch
