@@ -1,4 +1,6 @@
-# Hi,  I am Sudip Halder
+# Hi,  I am Sudip
+
+I am currently a CS undergrad, and my fields of interest are Machine Learning and Backend Development. Additionally, I can develop appealing and responsive Web User Interfaces.
 
 # Technologies & Tools
 <div style="display: flex; align-items: flex-start; align: center;">
