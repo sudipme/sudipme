@@ -1,6 +1,6 @@
 # Hi,  I am Sudip Halder
 
-### 🔨Technologies & Tools
+# Technologies & Tools
 <div style="display: flex; align-items: flex-start; align: center;">
 <table align="center">
   <tr>
