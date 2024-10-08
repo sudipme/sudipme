@@ -103,7 +103,6 @@ I am currently a CS undergrad, and my fields of interest are Machine Learning an
 
 # Contact
 -  [Send a Mail](https://sudip.me/mail)
--  [DM me on X](https://x.com/sudiphl)
 
 # Github Stats
 
