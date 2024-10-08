@@ -2,6 +2,7 @@
 
 I am currently a CS undergrad, and my fields of interest are Machine Learning and Backend Development. Additionally, I can develop appealing and responsive Web User Interfaces.
 
+<!--
 # Technologies & Tools
 <div style="display: flex; align-items: flex-start; align: center;">
 <table align="center">
@@ -95,6 +96,7 @@ I am currently a CS undergrad, and my fields of interest are Machine Learning an
  </tr>
 </table>
 </div>
+-->
 
 # Projects
 ### Checkout my Projects: [sudip.me/projects](https://sudip.me/projects)
