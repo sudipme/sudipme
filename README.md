@@ -108,5 +108,4 @@ I am currently a CS undergrad, and my fields of interest are Machine Learning an
 
 <div style="display:flex; align-items: flex-start">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipme&theme=light&hide_border=false&include_all_commits=true&count_private=true"/>
-<img src="https://streak-stats.demolab.com/?user=sudipme"/>
 </div>
