@@ -98,9 +98,6 @@ I am currently a CS undergrad, and my fields of interest are Machine Learning an
 </div>
 -->
 
-# Projects
-### Checkout my Projects: [sudip.me/projects](https://sudip.me/projects)
-
 # Contact
 -  [Send a Mail](https://sudip.me/mail)
 
