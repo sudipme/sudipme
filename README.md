@@ -1,6 +1,6 @@
 # Hi,  I am Sudip
 
-I am currently a CS undergrad, and my fields of interest are Machine Learning and Backend Development. Additionally, I can develop appealing and responsive Web User Interfaces.
+I am currently a CS undergrad, and my fields of interest are Machine Learning and Backend Development.
 
 <!--
 # Technologies & Tools
