@@ -1,6 +1,6 @@
 👋 Hi,  I am Sudip.
 
-💼 I am a CS undergrad.
+I am a CS undergrad.
 
 🛠️ Currently playing with AI Agents.
 
